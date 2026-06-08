@@ -27,9 +27,9 @@ from utils.master_tracker import (
     update_master_file
 )
 
-from scrapers.baanknet import (
-    search_baanknet_goa
-)
+# from scrapers.baanknet import (
+#     search_baanknet_goa
+# )
 
 # ------------------------------------
 # IBAPI
@@ -102,7 +102,7 @@ for row in ibapi_all:
 print()
 print("Getting BAANKNET auctions...")
 
-baanknet = search_baanknet_goa()
+# baanknet = search_baanknet_goa()
 
 # ------------------------------------
 # EAUCTIONSINDIA
@@ -226,7 +226,7 @@ all_auctions = (
     ibapi_clean
     + foreclosure_clean
     + banke_clean
-     + baanknet
+     
      + eauctions
 )
 
@@ -238,7 +238,7 @@ print("=" * 50)
 print(f"IBAPI: {len(ibapi_clean)}")
 print(f"ForeclosureIndia: {len(foreclosure_clean)}")
 print(f"BankeAuctions: {len(banke_clean)}")
-print(f"BAANKNET: {len(baanknet)}")
+# print(f"BAANKNET: {len(baanknet)}")
 print(f"EAUCTIONSINDIA: {len(eauctions)}")
 print(f"Total Auctions: {len(all_auctions)}")
 
