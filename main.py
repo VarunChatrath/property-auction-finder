@@ -37,24 +37,32 @@ from scrapers.baanknet import (
 
 print("Getting IBAPI auctions...")
 
-goa = search_goa()
-alibaug = search_alibaug()
+print("Getting IBAPI auctions...")
 
-ibapi_all = goa + alibaug
+try:
 
-for i, record in enumerate(ibapi_all):
+    goa = search_goa()
+    alibaug = search_alibaug()
 
-    property_id = record["property_id"]
+    ibapi_all = goa + alibaug
 
-    print(
-        f"{i+1}/{len(ibapi_all)} : {property_id}"
-    )
+except Exception as e:
 
-    docs = get_property_documents(
-        property_id
-    )
+    print("IBAPI FAILED:", e)
 
-    record.update(docs)
+    ibapi_all = []
+
+if len(ibapi_all) > 0:
+
+    for i, record in enumerate(ibapi_all):
+
+        property_id = record["property_id"]
+
+        docs = get_property_documents(
+            property_id
+        )
+
+        record.update(docs)
 
 # ------------------------------------
 # CLEAN IBAPI
