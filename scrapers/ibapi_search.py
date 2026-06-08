@@ -16,7 +16,7 @@ def search_properties(filters):
     response = requests.post(
         SEARCH_URL,
         json=payload,
-        timeout=30
+        timeout=60
     )
 
     response.raise_for_status()
