@@ -1,0 +1,15 @@
+Bank Name,Property ID,Branch,Property,Reserve Price (Rs),EMD (Rs),EMD Last Date & Time,Auction Start Date & Time,Auction End Date & Time,State,District,City,ROWID
+BANK OF BARODA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">BARB104220200001</a>",BARB0COLBAR,COMMERCIAL,"      13,10,000.00","       1,31,000.00",,,,GOA,NORTH GOA,MAPUSA,AAA0OGAAFAACR8gAAF
+BANK OF MAHARASHTRA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">MAHB40008830582</a>",MAHB0000084,RESIDENTIAL,,               .00,,,,GOA,NORTH GOA,RAIBANDAR,AAA0OGAAFAACOh2AAE
+BANK OF MAHARASHTRA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">MAHB140008830582</a>",MAHB0000507,RESIDENTIAL,,               .00,,,,GOA,NORTH GOA,RAIBANDAR,AAA0OGAAFAACRd0AAF
+BANK OF MAHARASHTRA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">MAHB110051408754</a>",MAHB0000084,RESIDENTIAL,,               .00,,,,GOA,NORTH GOA,BICHOLIM,AAA0OGAAFAACSDDAAB
+BANK OF MAHARASHTRA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">MAHB10010418013</a>",MAHB0001192,RESIDENTIAL,,               .00,,,,GOA,NORTH GOA,SOCORRO PANCHAYAT,AAA0OGAAFAACTJsAAH
+UNION BANK OF INDIA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">CORP1569</a>",CORP0000580,RESIDENTIAL,"      32,00,000.00","       3,20,000.00",,,,GOA,NORTH GOA,BARDEZ,AAA0OGAAFAACTbnAAK
+BANK OF MAHARASHTRA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">MAHB010010418013</a>",MAHB0001192,RESIDENTIAL,,               .00,,,,GOA,NORTH GOA,SOCORRO BARDEZ NORTH GOA,AAA0OGAAFAACTd1AAB
+BANK OF MAHARASHTRA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">MAHB10051408754</a>",MAHB0000084,RESIDENTIAL,,               .00,,,,GOA,NORTH GOA,BICHOLEM BORDEM,AAA0OGAAFAACTuZAAF
+BANK OF MAHARASHTRA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">MAHB40054953699</a>",MAHB0000083,RESIDENTIAL,,               .00,,,,GOA,SOUTH GOA,CALATA MAJORDA UTORDA,AAA0OGAAFAACRemAAF
+BANK OF BARODA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">BARB612620200131</a>",,RESIDENTIAL,"      71,00,000.00","       7,10,000.00",,,,GOA,SOUTH GOA,SALECETE,AAA0OGAAFAACR3hAAC
+BANK OF BARODA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">BARB612620200130</a>",,RESIDENTIAL,"      75,91,500.00","       7,59,150.00",,,,GOA,SOUTH GOA,SALECETE,AAA0OGAAFAACSC0AAG
+BANK OF BARODA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">BARB612620200132</a>",,RESIDENTIAL,"      29,07,000.00","       2,90,700.00",,,,GOA,SOUTH GOA,Quepem,AAA0OGAAFAACSDEAAC
+BANK OF BARODA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">BARB612620200133</a>",,RESIDENTIAL,"      31,46,000.00","       3,14,600.00",,,,GOA,SOUTH GOA,Quepem,AAA0OGAAFAACSDEAAE
+BANK OF MAHARASHTRA,"<a id=""btn_view"" style="" color:Black;font-weight:bold"">MAHB040054953699</a>",MAHB0000083,RESIDENTIAL,,               .00,,,,GOA,SOUTH GOA,CALATA MAJORDA UTORDA SALCETE,AAA0OGAAFAACTukAAB
